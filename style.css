@@ -20,3 +20,8 @@ h3 {
     font-size: 1em;
     padding-bottom: 1em;
 }
+main { 
+    display: grid;
+    grid-template-columns: 40% 60%;
+    margin-top: 3em;
+}
